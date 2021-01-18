@@ -1,0 +1,6 @@
+name: WDA-Expansion
+version: 1.0-SNAPSHOT
+main: info.ahaha.wdaexpansion.WDAExpansion
+api-version: 1.16
+depend:
+  - WellDebugAPI
